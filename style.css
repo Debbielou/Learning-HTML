@@ -1,0 +1,138 @@
+#paragraph1 {
+    font-family: Arial, sans-serif; 
+    font-size: 18px; 
+    color: blue; 
+    background-color: lightgray; 
+    padding: 10px; 
+    border: 1px solid gray; 
+}
+.responsive-image {
+    max-width: 100%;
+    height: auto;
+    
+} 
+.non-responsive {
+    width: 100px;
+    height: auto;
+    padding-top: 50px;
+
+}
+
+.vienna {
+    font-family: sans-serif;
+    margin: 20px; 
+    border: 1px solid #ccc; 
+    padding: 15px; 
+}
+
+.vienna h2 {
+    color: #333; 
+    text-align: center; 
+}
+
+.vienna table {
+    width: 70%; 
+    border-collapse: collapse; 
+}
+
+.vienna th,
+.vienna td {
+    border: 1px solid #ddd; 
+    padding: 8px; 
+    text-align: left;
+    border-color: green;
+}
+
+.vienna th {
+    background-color: #f2f2f2; 
+}
+
+.vienna caption {
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.menu{
+    font-family: sans-serif; 
+    border: 1px solid #ccc; 
+    padding: 15px; 
+    width: 200px; 
+}
+
+.menu table {
+    width: 100px; 
+    border-collapse: collapse;
+
+}
+
+.menu td {
+    padding: 10px; 
+    text-align: left; 
+    vertical-align: top; 
+}
+
+.menu b {
+    font-weight: bold; 
+    display: block; 
+    margin-bottom: 5px; 
+}
+
+.tutorial {
+    background-color: blueviolet;
+    width: 1000px;
+    
+}
+
+.copyright{
+    background-color: orangered;
+    text-align: center;
+}
+.deb {
+    width: 100%;
+    font-family: Verdana;
+}
+
+h1 {
+    font-size: 50px;
+    background-color: olivedrab;
+}
+
+.menu-container {
+    display: flex; 
+}
+
+.menu-bar {
+    background-color: aqua;
+    padding: 10px;
+    width: 50%; 
+    box-sizing: border-box; 
+}
+
+.menu-title {
+    font-size: 40px;
+    padding: 10px;
+    display: inline-block;
+}
+
+.menu-items {
+    list-style-type: disc;
+    padding-top: 50px;
+    margin: 0;
+    font-size: 20px;
+}
+
+.menu-items li {
+    margin: 5px 0;
+}
+
+.tutorial {
+    background-color: gray;
+    width: 50%; 
+    box-sizing: border-box;
+    padding: 10px;
+}
+p{
+font-size: 40px;
+display: inline-block;
+}
